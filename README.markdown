@@ -43,9 +43,25 @@ Decompyle++ is the work of Michael Hansen and Darryl Pogue.
 
 Additional contributions from:
 * charlietang98
+* Najimi Ajimu
 * Kunal Parmar
 * Olivier Iffrig
 * Zlodiy
 
 It is released under the terms of the GNU General Public License, version 3;
 See LICENSE file for details.
+
+## **Install PYCDC On Termux**
+```
+$ chmod 777 pycdc.cpp
+$ chmod 777 pycdas.cpp
+$ ls
+$ cmake .
+$ make
+$ ls
+$ mv pycdc $PREFIX/bin
+$ mv pycdas $PREFIX/bin
+```
+
+------
+------
