@@ -46,6 +46,7 @@ Additional contributions from:
 * Najimi Ajimu
 * Kunal Parmar
 * Olivier Iffrig
+* Arya XD
 * Zlodiy
 
 It is released under the terms of the GNU General Public License, version 3;
